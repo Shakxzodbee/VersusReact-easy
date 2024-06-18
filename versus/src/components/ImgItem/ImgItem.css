@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+h3{
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    line-height: 30px;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: "Lato", sans-serif;
+}
+
+.Imgdiv{
+    padding-top: 30px;
+    width: 1000px;
+    margin: auto;
+    flex-wrap: wrap;
+}
+.Imgdiv img{
+    margin-left: 20px;
+}
+.first , .second{
+    padding-top: 20px;
+}
